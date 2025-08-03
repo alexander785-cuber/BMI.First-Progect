@@ -1,1 +1,1 @@
-The firs version of my BMI calculator
+The first version of my BMI calculator
